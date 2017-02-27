@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="Notas">Notas</string>
+    <string name="Practicas60">Practicas 60%</string>
+    <string name="avanze">Avanze I proyecto 5%</string>
+    <string name="avanze2">Avanze 2 proyecto 7%</string>
+    <string name="avanze3">Avanze 3 proyecto 8%</string>
+    <string name="aplicacionfinal">Aplicacion final 20%</string>
+    <string name="ingnota">Ingrese nota</string>
+</resources>

@@ -1,0 +1,1 @@
+include ':app', ':Calculadora', ':figuras_geometricas', ':notas', ':calculadora_resistencias'
